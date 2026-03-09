@@ -1,2 +1,1 @@
-# Stroke_Prediction_Data-Mining
-A Data Mining project using WEKA to predict stroke risk
+This project predicts stroke risk in patients using Data Mining and Machine Learning (WEKA). The workflow covers data preprocessing, handling class imbalance with SMOTE, and feature optimization. Supervised models (Decision Trees, Neural Networks) and unsupervised methods (K-Means, Apriori) were applied to a dataset of 5,110 records with 12 clinical attributes. The best model (CART) achieved 83.3% recall and 0.929 ROC AUC. Key risk factors identified include age, hypertension, and heart disease. Demonstrates practical experience in predictive modeling, feature engineering, and healthcare data analysis.
